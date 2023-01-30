@@ -49,6 +49,8 @@
 
 [Algorithm_6: 힙, 셋](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W05/230127.md)
 
+[Algorithm_7: 이차원 리스트_이차원 리스트, 입력 받기](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W06/230130.md)
+
 ---
 
 ## :sparkles:Private_Study:sparkles:
