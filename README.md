@@ -49,8 +49,9 @@
 
 [Algorithm_6: 힙, 셋](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W05/230127.md)
 
-[Algorithm_7: 이차원 리스트_
-이차원 리스트, 입력 받기](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W06/230130.md)
+[Algorithm_7: 이차원 리스트_이차원 리스트, 입력 받기](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W06/230130.md)
+
+[Algorithm_8: 이차원 리스트_순회, 전치, 회전](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W06/230131.md)
 
 ---
 
