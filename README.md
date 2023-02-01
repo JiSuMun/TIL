@@ -53,6 +53,8 @@
 
 [Algorithm_8: 이차원 리스트_순회, 전치, 회전](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W06/230131.md)
 
+[Algorithm_9: 완전 탐색](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W06/230201.md)
+
 ---
 
 ## :sparkles:Private_Study:sparkles:
