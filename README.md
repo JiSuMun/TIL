@@ -55,6 +55,8 @@
 
 [Algorithm_9: 완전 탐색](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W06/230201.md)
 
+[Algorithm_10: 그래프](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W06/230202.md)
+
 ---
 
 ## :sparkles:Private_Study:sparkles:
