@@ -63,3 +63,19 @@
 
 ### **Algorithm**
 
+<br/>
+---
+
+## Algorithm Solve
+
+### **BOJ**
+[1000](https://github.com/JiSuMun/TIL/blob/master/BOJ/1000.py)
+[1001](https://github.com/JiSuMun/TIL/blob/master/BOJ/1001.py)
+[1008](https://github.com/JiSuMun/TIL/blob/master/BOJ/1008.py)
+[1012](https://github.com/JiSuMun/TIL/blob/master/BOJ/1012.py)
+[1018](https://github.com/JiSuMun/TIL/blob/master/BOJ/1018.py)
+
+
+<br/>
+
+### **SWEA**
