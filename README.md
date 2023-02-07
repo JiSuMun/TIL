@@ -67,6 +67,7 @@
 
 ### **Algorithm**
 
+
 <br/>
 
 ---
@@ -74,8 +75,33 @@
 ## :trophy:Algorithm Solve:trophy:
 
 ### **BOJ**
-[1000_A+B](https://github.com/JiSuMun/TIL/blob/master/BOJ/1000.py)　[1001_A-B](https://github.com/JiSuMun/TIL/blob/master/BOJ/1001.py)　[1008_A/B](https://github.com/JiSuMun/TIL/blob/master/BOJ/1008.py)　[1012_유기농 배추](https://github.com/JiSuMun/TIL/blob/master/BOJ/1012.py)　[1018_체스판 다시 칠하기](https://github.com/JiSuMun/TIL/blob/master/BOJ/1018.py)　[1065_한수](https://github.com/JiSuMun/TIL/blob/master/BOJ/1065.py)　[1085_직사각형에서 탈출](https://github.com/JiSuMun/TIL/blob/master/BOJ/1085.py)　[1110_더하기 사이클](https://github.com/JiSuMun/TIL/blob/master/BOJ/1110.py)　[1152_단어의 개수](https://github.com/JiSuMun/TIL/blob/master/BOJ/1152.py)　[1157_단어 공부](https://github.com/JiSuMun/TIL/blob/master/BOJ/1157.py)　[1181_단어 정렬](https://github.com/JiSuMun/TIL/blob/master/BOJ/1181.py)　[1193_분수찾기](https://github.com/JiSuMun/TIL/blob/master/BOJ/1193.py)　[1225_이상한 곱셈](https://github.com/JiSuMun/TIL/blob/master/BOJ/1225.py)　[1251_단어 나누기](https://github.com/JiSuMun/TIL/blob/master/BOJ/1251.py)
 
+#### Silver I
+
+#### Silver II
+[1012_유기농 배추](https://github.com/JiSuMun/TIL/blob/master/BOJ/1012.py)　
+
+#### Silver III
+
+#### Silver IV
+[1018_체스판 다시 칠하기](https://github.com/JiSuMun/TIL/blob/master/BOJ/1018.py)　[1065_한수](https://github.com/JiSuMun/TIL/blob/master/BOJ/1065.py)　[1269_대칭 차집합](https://github.com/JiSuMun/TIL/blob/master/BOJ/1269.py)　
+
+#### Silver V
+[1181_단어 정렬](https://github.com/JiSuMun/TIL/blob/master/BOJ/1181.py)　[1193_분수찾기](https://github.com/JiSuMun/TIL/blob/master/BOJ/1193.py)　[1251_단어 나누기](https://github.com/JiSuMun/TIL/blob/master/BOJ/1251.py)　[1316_그룹 단어 체커](https://github.com/JiSuMun/TIL/blob/master/BOJ/1316.py)　
+
+#### Bronze I
+[1110_더하기 사이클](https://github.com/JiSuMun/TIL/blob/master/BOJ/1110.py)　[1157_단어 공부](https://github.com/JiSuMun/TIL/blob/master/BOJ/1157.py)　[1259_팰린드롬수](https://github.com/JiSuMun/TIL/blob/master/BOJ/1259.py)　
+
+#### Bronze II
+[1152_단어의 개수](https://github.com/JiSuMun/TIL/blob/master/BOJ/1152.py)　[1225_이상한 곱셈](https://github.com/JiSuMun/TIL/blob/master/BOJ/1225.py)　
+
+#### Bronze III
+[1085_직사각형에서 탈출](https://github.com/JiSuMun/TIL/blob/master/BOJ/1085.py)　
+
+#### Bronze IV
+
+#### Bronze V
+[1000_A+B](https://github.com/JiSuMun/TIL/blob/master/BOJ/1000.py)　[1001_A-B](https://github.com/JiSuMun/TIL/blob/master/BOJ/1001.py)　[1008_A/B](https://github.com/JiSuMun/TIL/blob/master/BOJ/1008.py)　[1330_두 수 비교하기](https://github.com/JiSuMun/TIL/blob/master/BOJ/1330.py)　[]()
 
 <br/>
 
