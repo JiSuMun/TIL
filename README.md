@@ -65,6 +65,8 @@
 ### **DB**
 [DB_1: 관계형 데이터베이스](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W07/230208.md)
 
+[DB_2: Single Table Queries_1](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W07/230209.md)
+
 <br/>
 
 ---
