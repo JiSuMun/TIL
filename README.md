@@ -103,7 +103,7 @@
 [1181_단어 정렬](https://github.com/JiSuMun/TIL/blob/master/BOJ/1181.py)　[1193_분수찾기](https://github.com/JiSuMun/TIL/blob/master/BOJ/1193.py)　[1251_단어 나누기](https://github.com/JiSuMun/TIL/blob/master/BOJ/1251.py)　[1316_그룹 단어 체커](https://github.com/JiSuMun/TIL/blob/master/BOJ/1316.py)　[1436_영화감독 숌](https://github.com/JiSuMun/TIL/blob/master/BOJ/1436.py)
 
 #### Bronze I
-[1110_더하기 사이클](https://github.com/JiSuMun/TIL/blob/master/BOJ/1110.py)　[1157_단어 공부](https://github.com/JiSuMun/TIL/blob/master/BOJ/1157.py)　[1259_팰린드롬수](https://github.com/JiSuMun/TIL/blob/master/BOJ/1259.py)　[1526_가장 큰 금민수](https://github.com/JiSuMun/TIL/blob/master/BOJ/1526.py)
+[1110_더하기 사이클](https://github.com/JiSuMun/TIL/blob/master/BOJ/1110.py)　[1157_단어 공부](https://github.com/JiSuMun/TIL/blob/master/BOJ/1157.py)　[1259_팰린드롬수](https://github.com/JiSuMun/TIL/blob/master/BOJ/1259.py)　[1526_가장 큰 금민수](https://github.com/JiSuMun/TIL/blob/master/BOJ/1526.py)　[1546_평균](https://github.com/JiSuMun/TIL/blob/master/BOJ/1546.py)
 
 #### Bronze II
 [1152_단어의 개수](https://github.com/JiSuMun/TIL/blob/master/BOJ/1152.py)　[1225_이상한 곱셈](https://github.com/JiSuMun/TIL/blob/master/BOJ/1225.py)　[1453_피시방 알바](https://github.com/JiSuMun/TIL/blob/master/BOJ/1453.py)
