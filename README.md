@@ -90,28 +90,31 @@
 ### **BOJ**
 
 #### Silver I
+[]()　[]()
 
 #### Silver II
-[1012_유기농 배추](https://github.com/JiSuMun/TIL/blob/master/BOJ/1012.py)　
+[1012_유기농 배추](https://github.com/JiSuMun/TIL/blob/master/BOJ/1012.py)　[]()　[]()
 
 #### Silver III
+[]()　[]()
 
 #### Silver IV
-[1018_체스판 다시 칠하기](https://github.com/JiSuMun/TIL/blob/master/BOJ/1018.py)　[1065_한수](https://github.com/JiSuMun/TIL/blob/master/BOJ/1065.py)　[1269_대칭 차집합](https://github.com/JiSuMun/TIL/blob/master/BOJ/1269.py)　
+[1018_체스판 다시 칠하기](https://github.com/JiSuMun/TIL/blob/master/BOJ/1018.py)　[1065_한수](https://github.com/JiSuMun/TIL/blob/master/BOJ/1065.py)　[1269_대칭 차집합](https://github.com/JiSuMun/TIL/blob/master/BOJ/1269.py)　[]()　[]()
 
 #### Silver V
-[1181_단어 정렬](https://github.com/JiSuMun/TIL/blob/master/BOJ/1181.py)　[1193_분수찾기](https://github.com/JiSuMun/TIL/blob/master/BOJ/1193.py)　[1251_단어 나누기](https://github.com/JiSuMun/TIL/blob/master/BOJ/1251.py)　[1316_그룹 단어 체커](https://github.com/JiSuMun/TIL/blob/master/BOJ/1316.py)　[1436_영화감독 숌](https://github.com/JiSuMun/TIL/blob/master/BOJ/1436.py)
+[1181_단어 정렬](https://github.com/JiSuMun/TIL/blob/master/BOJ/1181.py)　[1193_분수찾기](https://github.com/JiSuMun/TIL/blob/master/BOJ/1193.py)　[1251_단어 나누기](https://github.com/JiSuMun/TIL/blob/master/BOJ/1251.py)　[1316_그룹 단어 체커](https://github.com/JiSuMun/TIL/blob/master/BOJ/1316.py)　[1436_영화감독 숌](https://github.com/JiSuMun/TIL/blob/master/BOJ/1436.py)　[]()　[]()
 
 #### Bronze I
-[1110_더하기 사이클](https://github.com/JiSuMun/TIL/blob/master/BOJ/1110.py)　[1157_단어 공부](https://github.com/JiSuMun/TIL/blob/master/BOJ/1157.py)　[1259_팰린드롬수](https://github.com/JiSuMun/TIL/blob/master/BOJ/1259.py)　[1526_가장 큰 금민수](https://github.com/JiSuMun/TIL/blob/master/BOJ/1526.py)　[1546_평균](https://github.com/JiSuMun/TIL/blob/master/BOJ/1546.py)
+[1110_더하기 사이클](https://github.com/JiSuMun/TIL/blob/master/BOJ/1110.py)　[1157_단어 공부](https://github.com/JiSuMun/TIL/blob/master/BOJ/1157.py)　[1259_팰린드롬수](https://github.com/JiSuMun/TIL/blob/master/BOJ/1259.py)　[1526_가장 큰 금민수](https://github.com/JiSuMun/TIL/blob/master/BOJ/1526.py)　[1546_평균](https://github.com/JiSuMun/TIL/blob/master/BOJ/1546.py)　[]()　[]()
 
 #### Bronze II
-[1152_단어의 개수](https://github.com/JiSuMun/TIL/blob/master/BOJ/1152.py)　[1225_이상한 곱셈](https://github.com/JiSuMun/TIL/blob/master/BOJ/1225.py)　[1453_피시방 알바](https://github.com/JiSuMun/TIL/blob/master/BOJ/1453.py)
+[1152_단어의 개수](https://github.com/JiSuMun/TIL/blob/master/BOJ/1152.py)　[1225_이상한 곱셈](https://github.com/JiSuMun/TIL/blob/master/BOJ/1225.py)　[1453_피시방 알바](https://github.com/JiSuMun/TIL/blob/master/BOJ/1453.py)　[]()　[]()
 
 #### Bronze III
-[1085_직사각형에서 탈출](https://github.com/JiSuMun/TIL/blob/master/BOJ/1085.py)　
+[1085_직사각형에서 탈출](https://github.com/JiSuMun/TIL/blob/master/BOJ/1085.py)　[]()　[]()
 
 #### Bronze IV
+[]()　[]()
 
 #### Bronze V
 [1000_A+B](https://github.com/JiSuMun/TIL/blob/master/BOJ/1000.py)　[1001_A-B](https://github.com/JiSuMun/TIL/blob/master/BOJ/1001.py)　[1008_A/B](https://github.com/JiSuMun/TIL/blob/master/BOJ/1008.py)　[1330_두 수 비교하기](https://github.com/JiSuMun/TIL/blob/master/BOJ/1330.py)　[]()
@@ -125,42 +128,43 @@
 ### **Code Up**
 
 #### 기초_출력
-
+[6001](https://github.com/JiSuMun/TIL/blob/master/CodeUp/6001.py)　[6002](https://github.com/JiSuMun/TIL/blob/master/CodeUp/6002.py)　[6003](https://github.com/JiSuMun/TIL/blob/master/CodeUp/6003.py)　[6004](https://github.com/JiSuMun/TIL/blob/master/CodeUp/6004.py)　[6005](https://github.com/JiSuMun/TIL/blob/master/CodeUp/6005.py)　[6006](https://github.com/JiSuMun/TIL/blob/master/CodeUp/6006.py)　[6007](https://github.com/JiSuMun/TIL/blob/master/CodeUp/6007.py)　[6008](https://github.com/JiSuMun/TIL/blob/master/CodeUp/6008.py)
 
 #### 기초_입출력
-
+[6009](https://github.com/JiSuMun/TIL/blob/master/CodeUp/6009.py)　[6010](https://github.com/JiSuMun/TIL/blob/master/CodeUp/6010.py)　[6011](https://github.com/JiSuMun/TIL/blob/master/CodeUp/6011.py)　[6012](https://github.com/JiSuMun/TIL/blob/master/CodeUp/6012.py)　[6013]()　[6014]()　[6015]()　[6016]()　[6017]()　[6018]()　[6019]()　[6020]()　[6021]()　[6022]()　[6023]()　[6024]()
 
 #### 기초_값변환
-
+[6025]()　[6026]()　[6029]()　[6030]()　[6031]()　[6042]()
 
 #### 기초_출력변환
-
+[6027]()　[6028]()
 
 #### 기초_산술연산
-
+[6032]()　[6033]()　[6034]()　[6035]()　[6036]()　[6037]()　[6038]()　[6040]()　[6041]()　[6043]()　[6044]()　[6045]()
 
 #### 기초_비프시프트연산
-
+[6046]()　[6047]()
 
 #### 기초_비교연산
-
+[6048]()　[6049]()　[6050]()　[6051]()
 
 #### 기초_논리연산
-
+[6052]()　[6053]()　[6054]()　[6055]()　[6056]()　[6057]()　[6058]()
 
 #### 기초_비트단위논리연산
-
+[6059]()　[6060]()　[6061]()　[6062]()
 
 #### 기초_3항연산
-
+[6063]()　[6064]()
 
 #### 기초_조건/선택실행구조
-
+[6065]()　[6066]()　[6067]()　[6068]()　[6069]()　[6070]()
 
 #### 기초_반복실행구조
-
+[6071]()　[6072]()　[6073]()　[6074]()　[6075]()　[6076]()
 
 #### 기초_종합
-
+[6077]()　[6078]()　[6079]()　[6080]()　[6081]()　[6082]()　[6083]()　[6084]()　[6085]()　[6086]()　[6087]()　[6088]()　[6089]()　[6090]()　[6091]()
 
 #### 기초_리스트
+[6092]()　[6093]()　[6093]()　[6094]()　[6095]()　[6096]()　[6097]()　[6098]()
