@@ -65,9 +65,9 @@
 ### **DB**
 [DB_1: 관계형 데이터베이스](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W07/230208.md)
 
-[DB_2: Querying data, Sorting Data](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W07/230209.md)
+[DB_2: Querying Data, Sorting Data](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W07/230209.md)
 
-[DB_3: Filtering Data, Grouping data](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W08/230213.md)
+[DB_3: Filtering Data, Grouping Data](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W08/230213.md)
 
 <br/>
 
