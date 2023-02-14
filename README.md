@@ -69,6 +69,8 @@
 
 [DB_3: Filtering Data, Grouping Data](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W08/230213.md)
 
+[DB_4: Managing Tables, Modifying Data](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W08/230214.md)
+
 <br/>
 
 ---
@@ -129,44 +131,4 @@
 
 ### **Code Up**
 
-#### 기초_출력
-[6001](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_Output/6001.py)　[6002](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_Output/6002.py)　[6003](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_Output/6003.py)　[6004](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_Output/6004.py)　[6005](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_Output/6005.py)　[6006](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_Output/6006.py)　[6007](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_Output/6007.py)　[6008](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_Output/6008.py)
-
-#### 기초_입출력
-[6009](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_IO/6009.py)　[6010](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_IO/6010.py)　[6011](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_IO/6011.py)　[6012](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_IO/6012.py)　[6013](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_IO/6013.py)　[6014](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_IO/6014.py)　[6015](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_IO/6015.py)　[6016](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_IO/6016.py)　[6017](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_IO/6017.py)　[6018](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_IO/6018.py)　[6019](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_IO/6019.py)　[6020](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_IO/6020.py)　[6021](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_IO/6021.py)　[6022](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_IO/6022.py)　[6023](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_IO/6023.py)　[6024](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_IO/6024.py)
-
-#### 기초_값변환
-[6025](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_ValueConversion/6025.py)　[6026](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_ValueConversion/6026.py)　[6029](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_ValueConversion/6029.py)　[6030](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_ValueConversion/6030.py)　[6031](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_ValueConversion/6031.py)　[6042](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_ValueConversion/6042.py)
-
-#### 기초_출력변환
-[6027](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_OutputConversion/6027.py)　[6028](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_OutputConversion/6028.py)
-
-#### 기초_산술연산
-[6032](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_ArithmeticOperation/6032.py)　[6033](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_ArithmeticOperation/6033.py)　[6034](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_ArithmeticOperation/6034.py)　[6035](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_ArithmeticOperation/6035.py)　[6036](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_ArithmeticOperation/6036.py)　[6037](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_ArithmeticOperation/6037.py)　[6038](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_ArithmeticOperation/6038.py)　[6039](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_ArithmeticOperation/6039.py)　[6040](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_ArithmeticOperation/6040.py)　[6041](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_ArithmeticOperation/6041.py)　[6043](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_ArithmeticOperation/6043.py)　[6044](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_ArithmeticOperation/6044.py)　[6045](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_ArithmeticOperation/6045.py)
-
-#### 기초_비트시프트연산
-[6046](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_BitShiftOperation/6046.py)　[6047](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_BitShiftOperation/6047.py)
-
-#### 기초_비교연산
-[6048](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_ComparisonOperation/6048.py)　[6049](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_ComparisonOperation/6049.py)　[6050](https://github.com/JiSuMun/TIL/blob/master/CodeUp/Basic_ComparisonOperation/6050.py)　[6051]()
-
-#### 기초_논리연산
-[6052]()　[6053]()　[6054]()　[6055]()　[6056]()　[6057]()　[6058]()
-
-#### 기초_비트단위논리연산
-[6059]()　[6060]()　[6061]()　[6062]()
-
-#### 기초_3항연산
-[6063]()　[6064]()
-
-#### 기초_조건/선택실행구조
-[6065]()　[6066]()　[6067]()　[6068]()　[6069]()　[6070]()
-
-#### 기초_반복실행구조
-[6071]()　[6072]()　[6073]()　[6074]()　[6075]()　[6076]()
-
-#### 기초_종합
-[6077]()　[6078]()　[6079]()　[6080]()　[6081]()　[6082]()　[6083]()　[6084]()　[6085]()　[6086]()　[6087]()　[6088]()　[6089]()　[6090]()　[6091]()
-
-#### 기초_리스트
-[6092]()　[6093]()　[6093]()　[6094]()　[6095]()　[6096]()　[6097]()　[6098]()
+#### [기초_출력](https://github.com/JiSuMun/TIL/tree/master/CodeUp/Basic_Output)　[기초_입출력](https://github.com/JiSuMun/TIL/tree/master/CodeUp/Basic_IO)　[기초_값변환](https://github.com/JiSuMun/TIL/tree/master/CodeUp/Basic_ValueConversion)　[기초_출력변환](https://github.com/JiSuMun/TIL/tree/master/CodeUp/Basic_OutputConversion)　[기초_산술연산](https://github.com/JiSuMun/TIL/tree/master/CodeUp/Basic_ArithmeticOperation)　[기초_비트시프트연산](https://github.com/JiSuMun/TIL/tree/master/CodeUp/Basic_BitShiftOperation)　[기초_비교연산](https://github.com/JiSuMun/TIL/tree/master/CodeUp/Basic_ComparisonOperation)　[기초_논리연산]()　[기초_비트단위논리연산]()　[기초_3항연산]()　[기초_조건/선택실행구조]()　[기초_반복실행구조]()　[기초_종합]()　[기초_리스트]()
