@@ -71,6 +71,8 @@
 
 [DB_4: Managing Tables, Modifying Data](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W08/230214.md)
 
+[DB_5: Multi Table Queries](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W08/230215.md)
+
 <br/>
 
 ---
