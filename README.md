@@ -73,6 +73,8 @@
 
 [DB_5: Multi Table Queries](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W08/230215.md)
 
+[DB_6: Nested Queries](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W08/230216.md)
+
 <br/>
 
 ---
