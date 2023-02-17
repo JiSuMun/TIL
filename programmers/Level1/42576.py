@@ -1,3 +1,4 @@
+# 해시
 # 완주하지 못한 선수
 # 시간복잡도: Counter => O(N), 딕셔너리에서 원소 접근할때: O(1)
 from collections import Counter

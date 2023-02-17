@@ -1,3 +1,4 @@
+# 해시
 # 폰켓몬
 # 시간복잡도: len(set) 비교 => O(len(set))
 def solution(nums):

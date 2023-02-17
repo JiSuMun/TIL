@@ -1,3 +1,4 @@
+# 해시
 # 전화번호 목록
 # 시간 복잡도: sorted => O(NlogN)
 def solution(phone_book):
