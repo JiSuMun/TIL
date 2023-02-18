@@ -1,6 +1,37 @@
-# :book:Today I Learned:book:
+# :book:**Today I Learned**
 
-## :sparkles:KDT:sparkles:
+## :memo:**Contents**
+
+### [**KDT**](#✨kdt)
+
+- [Markdown](#markdown)
+- [Python](#python)
+- [Algorithm](#algorithm)
+- [DB](#db)
+
+### [**Personal Study**](#✨personal-study)
+
+- [Algorithm](#algorithm-1)
+- [etc](#etc)
+
+### [**Algorithm Solve_Python**](#🏆algorithm-solve_python)
+
+- [BOJ](#boj)
+- [SWEA](#swea)
+- [programmers](#programmers)
+- [Code Up](#code-up)
+
+### [**MySQL Solve**](#🏆mysql-solve)
+
+- [programmers](#programmers-1)
+
+
+
+<br/>
+
+---
+
+## :sparkles:**KDT**
 
 ### **Markdown**
 [Markdown](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W01/221227_1.md)
@@ -77,11 +108,17 @@
 
 <br/>
 
+<div align=center>
+
+### <span style='background-color: #f1f8ff'>[Top of page](#📖today-i-learned)</span>
+</div>
+
 ---
 
-## :sparkles:Private_Study:sparkles:
+## :sparkles:**Personal Study**
 
 ### **Algorithm**
+
 
 
 <br/>
@@ -91,9 +128,14 @@
 
 <br/>
 
+<div align=center>
+
+### <span style='background-color: #f1f8ff'>[Top of page](#📖today-i-learned)</span>
+</div>
+
 ---
 
-## :trophy:Algorithm Solve:trophy:
+## :trophy:**Algorithm Solve_Python**
 
 ### **BOJ**
 
@@ -130,6 +172,7 @@
 <br/>
 
 ### **SWEA**
+[]()　[]()　[]()　
 
 <br/>
 
@@ -149,3 +192,31 @@
 ### **Code Up**
 
 [기초_출력](https://github.com/JiSuMun/TIL/tree/master/CodeUp/Basic_Output)　[기초_입출력](https://github.com/JiSuMun/TIL/tree/master/CodeUp/Basic_IO)　[기초_값변환](https://github.com/JiSuMun/TIL/tree/master/CodeUp/Basic_ValueConversion)　[기초_출력변환](https://github.com/JiSuMun/TIL/tree/master/CodeUp/Basic_OutputConversion)　[기초_산술연산](https://github.com/JiSuMun/TIL/tree/master/CodeUp/Basic_ArithmeticOperation)　[기초_비트시프트연산](https://github.com/JiSuMun/TIL/tree/master/CodeUp/Basic_BitShiftOperation)　[기초_비교연산](https://github.com/JiSuMun/TIL/tree/master/CodeUp/Basic_ComparisonOperation)　[기초_논리연산](https://github.com/JiSuMun/TIL/tree/master/CodeUp/Basic_LogicalOperation)　[기초_비트단위논리연산](https://github.com/JiSuMun/TIL/tree/master/CodeUp/Basic_BitwiseLogicOperation)　[기초_3항연산](https://github.com/JiSuMun/TIL/tree/master/CodeUp/Basic_TrinomialArithmetic)　[기초_조건/선택실행구조](https://github.com/JiSuMun/TIL/tree/master/CodeUp/Basic_Conditions_SelectionExecutionStructure)　[기초_반복실행구조]()　[기초_종합]()　[기초_리스트]()
+
+<br/>
+
+<div align=center>
+
+### <span style='background-color: #f1f8ff'>[Top of page](#📖today-i-learned)</span>
+</div>
+
+---
+
+## :trophy:**MySQL Solve**
+
+### **programmers**
+
+#### Level 1
+[]()　[]()　[]()　
+
+#### Level 2
+[]()　[]()　[]()　
+
+#### Level 3
+[]()　[]()　[]()　
+
+
+<div align=center>
+
+### <span style='background-color: #f1f8ff'>[Top of page](#📖today-i-learned)</span>
+</div>
