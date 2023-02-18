@@ -204,9 +204,3 @@
 
 #### Level 3
 []()　[]()　[]()　
-
-
-<div align=center>
-
-### [Top of page](#📝contents)
-</div>
