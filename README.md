@@ -108,10 +108,6 @@
 
 <br/>
 
-<div align=center>
-
-### <span style='background-color: #f1f8ff'>[Top of page](#📖today-i-learned)</span>
-</div>
 
 ---
 
@@ -128,10 +124,7 @@
 
 <br/>
 
-<div align=center>
 
-### <span style='background-color: #f1f8ff'>[Top of page](#📖today-i-learned)</span>
-</div>
 
 ---
 
@@ -195,10 +188,7 @@
 
 <br/>
 
-<div align=center>
 
-### <span style='background-color: #f1f8ff'>[Top of page](#📖today-i-learned)</span>
-</div>
 
 ---
 
@@ -218,5 +208,5 @@
 
 <div align=center>
 
-### <span style='background-color: #f1f8ff'>[Top of page](#📖today-i-learned)</span>
+### [Top of page](#📝contents)
 </div>
