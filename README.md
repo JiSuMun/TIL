@@ -2,26 +2,26 @@
 
 ## :memo:**Contents**
 
-### [**KDT**](#✨kdt)
+### **KDT**
 
 - [Markdown](#markdown)
 - [Python](#python)
 - [Algorithm](#algorithm)
 - [DB](#db)
 
-### [**Personal Study**](#✨personal-study)
+### **Personal Study**
 
 - [Algorithm](#algorithm-1)
 - [etc](#etc)
 
-### [**Algorithm Solve_Python**](#🏆algorithm-solve_python)
+### **Algorithm Solve_Python**
 
 - [BOJ](#boj)
 - [SWEA](#swea)
 - [programmers](#programmers)
 - [Code Up](#code-up)
 
-### [**MySQL Solve**](#🏆mysql-solve)
+### **MySQL Solve**
 
 - [programmers](#programmers-1)
 
