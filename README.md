@@ -141,7 +141,7 @@
 [1012_유기농 배추](https://github.com/JiSuMun/TIL/blob/master/BOJ/Silver_II/1012.py)　[]()　[]()
 
 #### Silver III
-[]()　[]()
+[20291_파일 정리]()　[]()
 
 #### Silver IV
 [1018_체스판 다시 칠하기](https://github.com/JiSuMun/TIL/blob/master/BOJ/Silver_IV/1018.py)　[1065_한수](https://github.com/JiSuMun/TIL/blob/master/BOJ/Silver_IV/1065.py)　[1269_대칭 차집합](https://github.com/JiSuMun/TIL/blob/master/BOJ/Silver_IV/1269.py)　[]()　[]()
