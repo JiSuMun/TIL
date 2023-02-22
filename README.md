@@ -165,7 +165,7 @@
 [1018_체스판 다시 칠하기](https://github.com/JiSuMun/TIL/blob/master/BOJ/Silver_IV/1018.py)　[1065_한수](https://github.com/JiSuMun/TIL/blob/master/BOJ/Silver_IV/1065.py)　[1269_대칭 차집합](https://github.com/JiSuMun/TIL/blob/master/BOJ/Silver_IV/1269.py)　[10866_덱](https://github.com/JiSuMun/TIL/blob/master/BOJ/Silver_IV/10866.py)　[]()
 
 #### Silver V
-[1181_단어 정렬](https://github.com/JiSuMun/TIL/blob/master/BOJ/Silver_V/1181.py)　[1193_분수찾기](https://github.com/JiSuMun/TIL/blob/master/BOJ/Silver_V/1193.py)　[1251_단어 나누기](https://github.com/JiSuMun/TIL/blob/master/BOJ/Silver_V/1251.py)　[1316_그룹 단어 체커](https://github.com/JiSuMun/TIL/blob/master/BOJ/Silver_V/1316.py)　[1436_영화감독 숌](https://github.com/JiSuMun/TIL/blob/master/BOJ/Silver_V/1436.py)　[]()　[]()
+[1181_단어 정렬](https://github.com/JiSuMun/TIL/blob/master/BOJ/Silver_V/1181.py)　[1193_분수찾기](https://github.com/JiSuMun/TIL/blob/master/BOJ/Silver_V/1193.py)　[1251_단어 나누기](https://github.com/JiSuMun/TIL/blob/master/BOJ/Silver_V/1251.py)　[1316_그룹 단어 체커](https://github.com/JiSuMun/TIL/blob/master/BOJ/Silver_V/1316.py)　[1436_영화감독 숌](https://github.com/JiSuMun/TIL/blob/master/BOJ/Silver_V/1436.py)　[2167_2차원 배열의 합](https://github.com/JiSuMun/TIL/blob/master/BOJ/Silver_V/2167.py)　[]()
 
 #### Bronze I
 [1110_더하기 사이클](https://github.com/JiSuMun/TIL/blob/master/BOJ/Bronze_I/1110.py)　[1157_단어 공부](https://github.com/JiSuMun/TIL/blob/master/BOJ/Bronze_I/1157.py)　[1259_팰린드롬수](https://github.com/JiSuMun/TIL/blob/master/BOJ/Bronze_I/1259.py)　[1526_가장 큰 금민수](https://github.com/JiSuMun/TIL/blob/master/BOJ/Bronze_I/1526.py)　[1546_평균](https://github.com/JiSuMun/TIL/blob/master/BOJ/Bronze_I/1546.py)　[]()　[]()
