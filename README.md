@@ -108,6 +108,10 @@
 
 [DB_7: SQL_Transactions, Triggers](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W09/230220.md)
 
+[DB_7: SQL_Transactions, Triggers](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W09/230220.md)
+
+[DB_Test: 오답](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W09/230224.md)
+
 <br/>
 
 ### **WEB**
