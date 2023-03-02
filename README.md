@@ -8,6 +8,7 @@
 - [Python](#python)
 - [Algorithm](#algorithm)
 - [DB](#db)
+- [Web](#web)
 
 ### **Personal Study**
 
@@ -183,7 +184,7 @@
 [1110_더하기 사이클](https://github.com/JiSuMun/TIL/blob/master/BOJ/Bronze_I/1110.py)　[1157_단어 공부](https://github.com/JiSuMun/TIL/blob/master/BOJ/Bronze_I/1157.py)　[1259_팰린드롬수](https://github.com/JiSuMun/TIL/blob/master/BOJ/Bronze_I/1259.py)　[1526_가장 큰 금민수](https://github.com/JiSuMun/TIL/blob/master/BOJ/Bronze_I/1526.py)　[1546_평균](https://github.com/JiSuMun/TIL/blob/master/BOJ/Bronze_I/1546.py)　[]()　[]()
 
 #### Bronze II
-[1152_단어의 개수](https://github.com/JiSuMun/TIL/blob/master/BOJ/Bronze_II/1152.py)　[1225_이상한 곱셈](https://github.com/JiSuMun/TIL/blob/master/BOJ/Bronze_II/1225.py)　[1453_피시방 알바](https://github.com/JiSuMun/TIL/blob/master/BOJ/Bronze_II/1453.py)　[]()　[]()
+[1152_단어의 개수](https://github.com/JiSuMun/TIL/blob/master/BOJ/Bronze_II/1152.py)　[1225_이상한 곱셈](https://github.com/JiSuMun/TIL/blob/master/BOJ/Bronze_II/1225.py)　[1453_피시방 알바](https://github.com/JiSuMun/TIL/blob/master/BOJ/Bronze_II/1453.py)　[2789_유학 금지](https://github.com/JiSuMun/TIL/blob/master/BOJ/Bronze_II/2789.py)　[]()
 
 #### Bronze III
 [1085_직사각형에서 탈출](https://github.com/JiSuMun/TIL/blob/master/BOJ/Bronze_III/1085.py)　[]()　[]()
