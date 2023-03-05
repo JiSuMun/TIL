@@ -208,10 +208,10 @@
 [폰켓몬](https://github.com/JiSuMun/TIL/blob/master/programmers/Level1/1845.py)　[완주하지 못한 선수](https://github.com/JiSuMun/TIL/blob/master/programmers/Level1/42576.py)　[같은 숫자는 싫어](https://github.com/JiSuMun/TIL/blob/master/programmers/Level1/12906.py)　[]()　[]()　[]()　[]()　[]()　[]()
 
 #### Level 2
-[전화번호 목록](https://github.com/JiSuMun/TIL/blob/master/programmers/Level2/42577.py)　[위장](https://github.com/JiSuMun/TIL/blob/master/programmers/Level2/42578.py)　[기능개발](https://github.com/JiSuMun/TIL/blob/master/programmers/Level2/42586.py)　[올바른 괄호](https://github.com/JiSuMun/TIL/blob/master/programmers/Level2/12909.py)　[프린터](https://github.com/JiSuMun/TIL/blob/master/programmers/Level2/42587.py)　[다리를 지나는 트럭](https://github.com/JiSuMun/TIL/blob/master/programmers/Level2/42583.py)　[주식가격](https://github.com/JiSuMun/TIL/blob/master/programmers/Level2/42584.py)　[더 맵게](https://github.com/JiSuMun/TIL/blob/master/programmers/Level2/42626.py)　[]()
+[전화번호 목록](https://github.com/JiSuMun/TIL/blob/master/programmers/Level2/42577.py)　[위장](https://github.com/JiSuMun/TIL/blob/master/programmers/Level2/42578.py)　[기능개발](https://github.com/JiSuMun/TIL/blob/master/programmers/Level2/42586.py)　[올바른 괄호](https://github.com/JiSuMun/TIL/blob/master/programmers/Level2/12909.py)　[프린터](https://github.com/JiSuMun/TIL/blob/master/programmers/Level2/42587.py)　[다리를 지나는 트럭](https://github.com/JiSuMun/TIL/blob/master/programmers/Level2/42583.py)　[주식가격](https://github.com/JiSuMun/TIL/blob/master/programmers/Level2/42584.py)　[더 맵게](https://github.com/JiSuMun/TIL/blob/master/programmers/Level2/42626.py)　[더 맵게](https://github.com/JiSuMun/TIL/blob/master/programmers/Level2/42626.py)　[]()　[]()　[]()
 
 #### Level 3
-[베스트앨범](https://github.com/JiSuMun/TIL/blob/master/programmers/Level3/42579.py)　[]()
+[베스트앨범](https://github.com/JiSuMun/TIL/blob/master/programmers/Level3/42579.py)　[디스크 컨트롤러](https://github.com/JiSuMun/TIL/blob/master/programmers/Level3/42627.py)　[이중우선순위큐](https://github.com/JiSuMun/TIL/blob/master/programmers/Level3/42628.py)　[]()
 
 <br/>
 
