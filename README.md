@@ -126,6 +126,8 @@
 
 [WEB_5: Semantics](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W10/230302.md)
 
+[WEB_6: Bootstrap](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W11/230306.md)
+
 <br/>
 
 ---
