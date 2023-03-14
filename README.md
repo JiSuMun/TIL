@@ -136,7 +136,7 @@
 ### **JavaScript**
 [JavaScript_1: DOM](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W12/230313.md)
 
-[JavaScript_2: Basic syntax]()
+[JavaScript_2: Basic syntax](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W12/230314.md)
 
 <br/>
 
