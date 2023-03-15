@@ -138,6 +138,8 @@
 
 [JavaScript_2: Basic syntax](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W12/230314.md)
 
+[JavaScript_3: Functions](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W12/230315_1.md)
+
 <br/>
 
 ---
