@@ -9,6 +9,7 @@
 - [Algorithm](#algorithm)
 - [DB](#db)
 - [Web](#web)
+- [JavaScript](#javascript)
 
 ### **Personal Study**
 
@@ -115,7 +116,7 @@
 
 <br/>
 
-### **WEB**
+### **Web**
 [WEB_1: HTML, CSS 기초](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W09/230222.md)
 
 [WEB_2: BOX](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W09/230223.md)
