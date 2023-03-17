@@ -143,6 +143,8 @@
 
 [JavaScript_4: Object](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W12/230315_2.md)
 
+[JavaScript_5: Array](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W12/230315_3.md)
+
 <br/>
 
 ---
