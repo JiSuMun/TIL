@@ -145,6 +145,8 @@
 
 [JavaScript_5: Array](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W12/230315_3.md)
 
+[JavaScript_6: Controlling event](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W12/230316.md)
+
 <br/>
 
 ---
