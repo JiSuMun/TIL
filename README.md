@@ -210,7 +210,7 @@
 <div markdown="1">
 <br>
 
-[Django_1: 가상환경 및 프로젝트 생성](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W12/230316.md)
+[Django_1: 가상환경 및 프로젝트 생성](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W13/230320.md)
 
 </div>
 </details>
