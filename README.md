@@ -11,6 +11,7 @@
 - [DB](#db)
 - [Web](#web)
 - [JavaScript](#javascript)
+- [Django](#django)
 
 ### **Personal Study**
 
@@ -21,12 +22,12 @@
 
 - [BOJ](#boj)
 - [SWEA](#swea)
-- [programmers](#programmers)
+- [Programmers](#programmers)
 - [Code Up](#code-up)
 
 ### **MySQL Solve**
 
-- [programmers](#programmers-1)
+- [Programmers](#programmers-1)
 
 
 <br>
@@ -198,6 +199,18 @@
 [JavaScript_5: Array](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W12/230315_3.md)
 
 [JavaScript_6: Controlling event](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W12/230316.md)
+
+</div>
+</details>
+
+<br>
+
+<details id="django">
+<summary><strong>Django</strong></summary>
+<div markdown="1">
+<br>
+
+[Django_1: 가상환경 및 프로젝트 생성](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W12/230316.md)
 
 </div>
 </details>
