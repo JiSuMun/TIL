@@ -212,6 +212,8 @@
 
 [Django_1: 가상환경 및 프로젝트 생성](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W13/230320.md)
 
+[Django_2: 앱, 디자인패턴](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W13/230321.md)
+
 </div>
 </details>
 
