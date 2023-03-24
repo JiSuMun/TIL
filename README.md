@@ -218,6 +218,9 @@
 
 [Django_4: URLs](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W13/230323.md)
 
+[Django_5: Model](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W13/230324.md)
+
+
 
 </div>
 </details>
