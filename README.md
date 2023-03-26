@@ -269,7 +269,7 @@
 []()　[]()
 
 #### Silver II
-[1012_유기농 배추](https://github.com/JiSuMun/TIL/blob/master/BOJ/Silver_II/1012.py)　[]()　[]()
+[1012_유기농 배추](https://github.com/JiSuMun/TIL/blob/master/BOJ/Silver_II/1012.py)　[1260_DFS와 BFS](https://github.com/JiSuMun/TIL/blob/master/BOJ/Silver_II/1260.py)　[]()
 
 #### Silver III
 [20291_파일 정리](https://github.com/JiSuMun/TIL/blob/master/BOJ/Silver_III/20291.py)　[]()
