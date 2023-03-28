@@ -220,7 +220,7 @@
 
 [Django_5: Model](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W13/230324.md)
 
-
+[Django_6: ORM](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W14/230328.md)
 
 </div>
 </details>
