@@ -222,6 +222,8 @@
 
 [Django_6: ORM](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W14/230328.md)
 
+[Django_7: ORM_view](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W14/230329.md)
+
 </div>
 </details>
 
