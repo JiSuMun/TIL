@@ -224,6 +224,8 @@
 
 [Django_7: ORM_view: READ, CREATE](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W14/230329.md)
 
+[Django_8: ORM_view: DELETE, UPDATE](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W14/230330.md)
+
 </div>
 </details>
 
