@@ -234,6 +234,10 @@
 
 [Django_12: Join & Delete & Update & ChangePassword](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W15/230405.md)
 
+[Django_13: Static files](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W16/230410.md)
+
+[Django_14: Many to one relationships_1](https://github.com/JiSuMun/TIL/blob/master/KDT_Multicampus/W16/230411.md)
+
 </div>
 </details>
 
